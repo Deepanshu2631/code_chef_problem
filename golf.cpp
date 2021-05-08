@@ -43,7 +43,7 @@ Therefore, the answer for the first test case is "YES" since the ball falls in t
 
 #include <bits/stdc++.h>
 using namespace std;
-// this is deepanshu kushwaha
+// this is deepanshu kushwaha solved
 int main() {
 	int t;
 	cin>>t;
